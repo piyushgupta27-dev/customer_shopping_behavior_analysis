@@ -1,7 +1,6 @@
 # 📊 Data Analytics Project
 
 ## Overview
-
 This project demonstrates an end-to-end Data Analytics workflow using Python, SQL, and Power BI. The objective is to transform raw data into meaningful insights through data cleaning, exploratory data analysis (EDA), SQL analysis, and interactive dashboard visualization. The project also includes a business report and presentation for communicating findings effectively.
 
 ## Dataset
@@ -18,10 +17,7 @@ The project involves:
 ## Tools & Technologies
 * **Python**
   * Pandas
-  * NumPy
-  * Matplotlib
-  * Seaborn
-
+  
 * **SQL**
   * PostgreSQL 
 
@@ -101,13 +97,8 @@ Create a professional presentation using Gamma covering:
 * Regional performance
 * Performance comparison
 
-📊 Dashboard Preview
-(Dashboard-Screenshot.png)
-
 ## Results
-
 The project demonstrates how raw data can be transformed into actionable business insights by:
-
 * Cleaning and preparing data
 * Discovering patterns through EDA
 * Answering business questions using SQL
@@ -119,7 +110,6 @@ The project demonstrates how raw data can be transformed into actionable busines
 2. Install the required Python libraries.
 3. Open the Jupyter Notebook files.
 4. Run the notebooks in sequence:
-
    * Data Loading
    * EDA
    * Data Cleaning
